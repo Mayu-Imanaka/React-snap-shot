@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/React-snap-shot/static/css/main.632f5c3f.chunk.css",
+    "main.js": "/React-snap-shot/static/js/main.c2ea198b.chunk.js",
+    "main.js.map": "/React-snap-shot/static/js/main.c2ea198b.chunk.js.map",
+    "runtime-main.js": "/React-snap-shot/static/js/runtime-main.63b35955.js",
+    "runtime-main.js.map": "/React-snap-shot/static/js/runtime-main.63b35955.js.map",
+    "static/js/2.56c6a2b5.chunk.js": "/React-snap-shot/static/js/2.56c6a2b5.chunk.js",
+    "static/js/2.56c6a2b5.chunk.js.map": "/React-snap-shot/static/js/2.56c6a2b5.chunk.js.map",
+    "index.html": "/React-snap-shot/index.html",
+    "precache-manifest.0ace90f57f3385cb93971859e0edbba9.js": "/React-snap-shot/precache-manifest.0ace90f57f3385cb93971859e0edbba9.js",
+    "service-worker.js": "/React-snap-shot/service-worker.js",
+    "static/css/main.632f5c3f.chunk.css.map": "/React-snap-shot/static/css/main.632f5c3f.chunk.css.map",
+    "static/js/2.56c6a2b5.chunk.js.LICENSE.txt": "/React-snap-shot/static/js/2.56c6a2b5.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.63b35955.js",
+    "static/js/2.56c6a2b5.chunk.js",
+    "static/css/main.632f5c3f.chunk.css",
+    "static/js/main.c2ea198b.chunk.js"
+  ]
+}
